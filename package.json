@@ -1,0 +1,16 @@
+{
+  "name": "@bezlepkin/stringtohexcolor",
+  "version": "1.0.1",
+  "description": "Generates color based on string.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "color",
+    "avatar",
+    "profilephoto"
+  ],
+  "author": "Igor Bezlepkin",
+  "license": "MIT"
+}
