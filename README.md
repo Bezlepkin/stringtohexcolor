@@ -3,7 +3,7 @@
     - [NPM](#npm)
 
  # Description
-Code generation based on string.
+Generation color code (HEX) based on string.
 Parses a line into words and picks up the first letter of each word.
 Returns an object with the first letters of each word and color.
 Often used to generate user photos. You can see this in Telegram, WhatsApp and others.
